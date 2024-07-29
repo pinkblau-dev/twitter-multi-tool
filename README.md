@@ -8,6 +8,7 @@
 - Twitter Profile Picture Changer Bot.
 - Twitter Biography Changer Bot.
 - Twitter Tweet Post Bot.
+- Twitter Unlocker For Locked Accounts Bot.
 
 
 ## Legal
